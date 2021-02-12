@@ -7,4 +7,4 @@ and devices. The information in performance reports helps users and administrato
 it keeps track of software installs/uninstalls and all system, application, and hardware failures over the lifetime of the system.
 
 Yet, another operating system is an installation device. A small piece of software that tells the operating system and other software how to 
-communicate with a piece of hardware. If you attach a new device like a smartphone to a computer tehn its driver must be intalled before you can the device.
+communicate with a piece of hardware. If you attach a new device like a smartphone to a computer, its driver must be intalled before you can the device.
