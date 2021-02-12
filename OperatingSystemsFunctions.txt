@@ -5,3 +5,6 @@ either allocated or free for reuse when no longer needed.
 Another operating system function is a performance monitor, which is a program that asseses and reports the information about different computers
 and devices. The information in performance reports helps users and administrators indentify a problem with resources so they can try and resolve issues.
 it keeps track of software installs/uninstalls and all system, application, and hardware failures over the lifetime of the system.
+
+Yet, another one operating system is an installation device. A small piece of software that tells the operating system and other software how to 
+communicate with a piece of hardware. If you attach a new device like a smartphone to a computer tehn its driver must be intalled before you can the device.
